@@ -1,13 +1,11 @@
-<img src="./assets/a_type_readme.gif" style="float:right ; margin: 10px ; width:300px;"> 
-
 <h1><left>SAVE WORLD: Using Natural Language Processing to identify suicidal posts</left></h1>
 
 ___
 
->"*Sat in bed. Did the whole sad songs and crying bit . . . please make this sad stop!*"
+>"*Suicide doesn’t end the chances of life getting worse, it eliminates the possibility of it ever getting any better.*"
 
 
-The World Health Organisation recommends that countries craft a national suicide prevention strategy that includes creating initiatives that aim at "early identification of groups vulnerable to the risk of suicide".
+The WHO recommends that countries craft a national suicide prevention strategy that includes creating initiatives that aim at "early identification of groups vulnerable to the risk of suicide".
 
 
 
@@ -22,7 +20,7 @@ On reddit, we found two communities for depression and suicide.These are our two
 
 
 
-The project is organised into three notebooks:
+The project is structured into following three notebooks:
 
 ```
 SAVE WORLD: Using Natural Language Processing to identify suicidal posts
