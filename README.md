@@ -1,8 +1,9 @@
-<h1><left>SAVE WORLD: Using Natural Language Processing to identify suicidal posts</left></h1>
+<h1><left>SAVE WORLD: Using Natural Language Processing(NLP) to identify suicidal posts</left></h1>
 
 ___
 
->"*Suicide doesn’t end the chances of life getting worse, it eliminates the possibility of it ever getting any better.*"
+>"*Suicide may be a choice, but not as much as it is expected when everything else fails.*"
+>
 
 
 The WHO recommends that countries craft a national suicide prevention strategy that includes creating initiatives that aim at "early identification of groups vulnerable to the risk of suicide".
