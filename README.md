@@ -1,19 +1,14 @@
-<h1><left>SAVE WORLD: Using Natural Language Processing(NLP) to identify suicidal posts</left></h1>
+<h1><left>SAVE WORLD: Using Natural Language Processing(NLP) to identify suicidal posts on reddit</left></h1>
 
 ___
 
->"*Suicide may be a choice, but not as much as it is expected when everything else fails.*"
+>"*When you are tempted to give up, your breakthrough is probably just around the corner.*"
 >
 
-
-The WHO recommends that countries craft a national suicide prevention strategy that includes creating initiatives that aim at "early identification of groups vulnerable to the risk of suicide".
-
-
-
 ### Two subreddits with a subtle difference
-We needed to choose two subreddits that will yield us suitable data to identify individuals at risk.
+I needed to choose two subreddits that will yield us suitable data to identify individuals at risk.
 
-On reddit, we found two communities for depression and suicide.These are our two subreddits and their *tag-lines*(which hint at their mission statements):
+On reddit, I found two communities for depression and suicide. These are our two subreddits and their *tag-lines*(which hint at their mission statements):
 
 > **r/depression**: because nobody should be alone in a dark place
 
@@ -21,7 +16,7 @@ On reddit, we found two communities for depression and suicide.These are our two
 
 
 
-The project is structured into following three notebooks:
+The project is structured into following notebooks:
 
 ```
 SAVE WORLD: Using Natural Language Processing to identify suicidal posts
