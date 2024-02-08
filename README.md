@@ -1,22 +1,17 @@
-<h1><left>SAVE WORLD: Using Natural Language Processing(NLP) to identify suicidal posts on reddit</left></h1>
+# SAVE WORLD: Using Natural Language Processing(NLP) to Identify Suicidal Posts on Reddit
 
-___
+---
 
->"*When you are tempted to give up, your breakthrough is probably just around the corner.*"
->
+> "*When you are tempted to give up, your breakthrough is probably just around the corner.*"
 
-### Two subreddits with a subtle difference
-I needed to choose two subreddits that will yield us suitable data to identify individuals at risk.
+## Overview
+This project aims to leverage Natural Language Processing (NLP) techniques to identify potentially suicidal posts on Reddit. By analyzing posts from two subreddits—r/depression and r/SuicideWatch—we aim to provide support and intervention for individuals at risk.
 
-On reddit, I found two communities for depression and suicide. These are our two subreddits and their *tag-lines*(which hint at their mission statements):
+### Subreddits and Mission Statements
+- **r/depression**: Because nobody should be alone in a dark place.
+- **r/SuicideWatch**: Peer support for anyone struggling with suicidal thoughts.
 
-> **r/depression**: because nobody should be alone in a dark place
-
-> **r/SuicideWatch**: Peer support for anyone struggling with suicidal thoughts.
-
-
-
-The project is structured into following notebooks:
+## Project Structure
 
 ```
 SAVE WORLD: Using Natural Language Processing to identify suicidal posts
@@ -35,6 +30,17 @@ SAVE WORLD: Using Natural Language Processing to identify suicidal posts
 |__ README.md
 ```
 
+
+## Notebooks
+- `01_Data_Collection.ipynb`: Notebook for collecting data from Reddit.
+- `02_Data-Cleaning_Pre-processing_EDA.ipynb`: Notebook for data cleaning, pre-processing, and exploratory data analysis.
+- `03_Modelling.ipynb`: Notebook for building and evaluating NLP models.
+
+## Data
+- `combined_data.csv`: Combined dataset containing posts from both subreddits.
+- `data_for_model.csv`: Processed data suitable for model training and evaluation.
+- `depression.csv`: Raw data from the r/depression subreddit.
+- `suicide_watch.csv`: Raw data from the r/SuicideWatch subreddit.
 
 ### Visualisations
 <img src="./assets/a_wordcloud_readme.png" style="float: center; margin: 50px; width:800px;"> 
